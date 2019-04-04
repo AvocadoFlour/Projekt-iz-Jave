@@ -1,0 +1,214 @@
+2019-04-02 06:29:07,775 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 06:29:16,471 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 06:29:30,978 ERROR [main] h.j.v.g.Glavna [UnosDatuma.java:26] Korisnik nije unio datum u definiranom formatu. Korisnikov unos: 2
+2019-04-02 06:29:31,581 ERROR [main] h.j.v.g.Glavna [UnosDatuma.java:26] Korisnik nije unio datum u definiranom formatu. Korisnikov unos: 4
+2019-04-02 06:29:32,065 ERROR [main] h.j.v.g.Glavna [UnosDatuma.java:26] Korisnik nije unio datum u definiranom formatu. Korisnikov unos: 5
+2019-04-02 06:29:32,444 ERROR [main] h.j.v.g.Glavna [UnosDatuma.java:26] Korisnik nije unio datum u definiranom formatu. Korisnikov unos: 3
+2019-04-02 06:34:01,895 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:30] Ispitna ocijena jedan na ispitu iz 12 studenta we rghe
+2019-04-02 06:34:01,895 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:77] Ispitna ocijena jedan na ispitu iz 12 studenta we rghe
+2019-04-02 06:34:01,895 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:77] Ispitna ocijena jedan na ispitu iz 12 studenta we rghe
+2019-04-02 06:39:27,343 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 06:39:38,053 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 06:40:35,660 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:30] Ispitna ocijena jedan na ispitu iz 352 studenta qewf ehtr
+2019-04-02 06:42:44,112 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 06:42:47,555 ERROR [main] h.j.v.g.Glavna [UnosIntIzuzetak.java:21] Korisnik nije unio znamenku.
+2019-04-02 06:42:55,453 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:30] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-02 06:43:20,600 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 06:43:21,791 ERROR [main] h.j.v.g.Glavna [UnosIntIzuzetak.java:21] Korisnik nije unio znamenku.
+2019-04-02 06:51:37,685 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 06:51:42,521 ERROR [main] h.j.v.g.Glavna [UnosIntIzuzetak.java:21] Korisnik nije unio znamenku.
+2019-04-02 06:51:47,280 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:30] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-02 06:57:34,070 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 06:57:39,027 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:39] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-02 07:00:37,646 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 07:00:42,317 ERROR [main] h.j.v.g.Glavna [UnosIntIzuzetak.java:21] Korisnik nije unio znamenku.
+2019-04-02 07:00:45,838 ERROR [main] h.j.v.g.Glavna [UnosIntIzuzetak.java:21] Korisnik nije unio znamenku.
+2019-04-02 07:00:49,216 ERROR [main] h.j.v.g.Glavna [UnosIntIzuzetak.java:21] Korisnik nije unio znamenku.
+2019-04-02 07:00:57,999 ERROR [main] h.j.v.g.Glavna [UnosIntIzuzetak.java:21] Korisnik nije unio znamenku.
+2019-04-02 07:01:02,181 ERROR [main] h.j.v.g.Glavna [UnosIntIzuzetak.java:21] Korisnik nije unio znamenku.
+2019-04-02 07:01:11,261 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:39] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-02 14:05:25,604 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 14:05:29,617 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 14:05:36,764 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-02 14:06:29,804 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 14:06:33,561 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 14:06:38,508 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-02 14:12:03,107 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 14:12:11,781 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-02 14:12:46,740 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 14:13:29,815 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 14:13:42,781 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 14:13:53,300 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-02 14:14:42,669 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-02 14:14:51,410 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-02 14:14:52,950 ERROR [main] h.j.v.g.Glavna [UnosIntIzuzetak.java:21] Korisnik nije unio znamenku.
+2019-04-02 14:14:54,107 ERROR [main] h.j.v.g.Glavna [UnosIntIzuzetak.java:21] Korisnik nije unio znamenku.
+2019-04-03 02:30:10,678 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 02:30:13,610 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 02:30:24,362 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 02:31:29,676 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 02:31:37,917 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 02:32:01,108 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 02:32:11,533 ERROR [main] h.j.v.g.Glavna [UnosIntIzuzetak.java:21] Korisnik nije unio znamenku.
+2019-04-03 02:32:12,844 ERROR [main] h.j.v.g.Glavna [UnosIntIzuzetak.java:21] Korisnik nije unio znamenku.
+2019-04-03 02:32:14,628 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 02:34:22,430 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 02:34:27,001 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 02:35:15,052 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 02:35:17,737 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:41:49,759 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:41:54,360 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:42:51,774 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:42:54,755 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:44:24,660 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:44:26,747 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:45:15,544 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:45:17,938 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:45:23,926 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:45:26,034 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:46:15,623 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:46:17,818 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:46:58,352 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:47:12,883 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:47:18,477 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:47:19,555 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:47:19,555 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:47:33,974 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:47:34,614 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:47:34,614 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:47:39,597 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:48:05,313 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:48:10,952 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:48:14,809 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:48:18,854 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:48:24,332 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:48:25,174 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:48:25,175 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:48:27,321 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:48:28,225 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:48:28,225 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:49:28,109 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:49:37,270 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:49:38,424 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:49:38,424 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:57:31,239 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:57:43,906 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 03:57:49,606 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:57:51,058 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 03:57:51,059 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:02:53,835 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 04:03:02,877 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:03:05,147 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:03:05,148 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:03:24,380 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 04:03:35,595 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:03:36,634 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:03:36,634 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:03:37,822 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:03:38,239 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:03:38,239 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:03:46,276 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 04:03:51,473 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:03:51,879 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:03:51,880 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:03:52,689 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:03:53,068 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:03:53,068 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:04:49,974 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 04:05:05,726 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 04:05:17,987 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:05:20,179 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:05:20,179 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:05:31,695 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:39] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:05:32,607 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:81] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:05:32,608 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:81] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:07:12,321 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 04:07:32,345 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:07:33,106 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:07:33,106 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:08:36,361 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 04:08:39,977 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:08:41,104 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:57] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:08:41,104 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:57] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:10:24,096 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 04:10:29,105 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:10:30,026 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:58] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:10:30,027 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:58] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:13:26,170 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 04:13:31,938 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 04:13:34,208 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:13:35,362 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:14:35,698 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 04:14:41,040 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:14:42,722 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:15:47,463 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 04:15:52,660 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:15:53,424 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:16:02,971 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:39] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:16:03,937 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:81] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:38:18,500 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 04:39:21,848 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 04:39:43,912 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 04:39:46,557 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:39:46,968 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:39:47,755 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 04:39:48,149 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 05:37:31,117 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 05:37:32,719 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 05:37:33,129 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 05:37:34,701 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 05:37:35,239 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 05:37:53,886 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 05:37:57,980 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 05:37:59,273 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 05:38:04,325 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 05:38:07,093 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 05:38:07,491 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 05:38:08,308 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 05:38:08,718 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 05:40:10,032 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 05:41:15,124 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 05:41:41,525 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 05:42:16,355 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 05:42:24,934 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 05:45:19,533 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 05:45:26,519 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:68] Studenti koji djele najbolji prosjek su roðeni na isti datum.
+2019-04-03 05:46:22,919 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 05:47:41,959 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Program pokrenut.
+2019-04-03 05:50:51,592 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 05:50:53,667 ERROR [main] h.j.v.g.Glavna [Glavna.java:139] Studenti koji djele najbolji prosjek su roðeni na isti datum.
+2019-04-03 06:01:13,672 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 06:01:21,869 ERROR [main] h.j.v.g.Glavna [Glavna.java:139] Studenti koji djele najbolji prosjek su roðeni na isti datum.
+2019-04-03 06:02:11,447 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 06:23:17,576 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 06:24:55,282 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 06:25:23,820 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:41] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 06:25:25,412 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:56] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 08:55:02,907 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 08:55:20,209 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 08:55:45,039 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 08:56:00,325 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:32] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 09:35:16,688 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 09:35:29,026 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:39] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 10:00:11,115 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 10:00:28,327 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 10:00:33,346 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:52] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 10:00:35,487 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:67] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 10:00:59,451 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 10:01:05,975 ERROR [main] h.j.v.g.Glavna [Glavna.java:139] Studenti koji djele najbolji prosjek su roðeni na isti datum.
+2019-04-03 10:21:30,348 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 10:21:35,957 ERROR [main] h.j.v.g.Glavna [Glavna.java:142] Studenti koji djele najbolji prosjek su roðeni na isti datum.
+2019-04-03 10:21:57,348 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 10:22:00,862 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:52] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 10:26:32,413 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 10:27:03,951 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 10:27:10,089 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:67] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 11:08:34,055 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 11:20:01,949 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 11:20:53,508 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 11:21:03,048 ERROR [main] h.j.v.g.Glavna [VeleucilisteJave.java:39] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 11:21:11,249 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 11:24:30,671 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 12:17:36,659 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
+2019-04-03 12:17:56,353 ERROR [main] h.j.v.g.Glavna [FakultetRacunarstva.java:57] Ispitna ocijena jedan na ispitu iz Objektno upravljanje mobitelom studenta Luka Modriæ
+2019-04-03 14:49:27,555 INFO [main] h.j.v.g.Glavna [Glavna.java:32] Program pokrenut.
